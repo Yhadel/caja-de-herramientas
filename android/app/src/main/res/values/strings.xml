@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Caja de Herramientas</string>
+    <string name="title_activity_main">Caja de Herramientas</string>
+    <string name="package_name">com.yhadel.cajadeherramientas</string>
+    <string name="custom_url_scheme">com.yhadel.cajadeherramientas</string>
+</resources>
